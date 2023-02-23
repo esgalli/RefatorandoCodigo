@@ -10,3 +10,15 @@ C:\WorkArea\Galli\Estudo\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\Re
 C:\WorkArea\Galli\Estudo\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\refint\RefatorandoCodigo.dll
 C:\WorkArea\Galli\Estudo\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.pdb
 C:\WorkArea\Galli\Estudo\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\ref\RefatorandoCodigo.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\bin\Debug\net6.0\RefatorandoCodigo.deps.json
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\bin\Debug\net6.0\RefatorandoCodigo.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\bin\Debug\net6.0\RefatorandoCodigo.pdb
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.AssemblyInfo.cs
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\refint\RefatorandoCodigo.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\RefatorandoCodigo.pdb
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\RefatorandoCodigo\obj\Debug\net6.0\ref\RefatorandoCodigo.dll

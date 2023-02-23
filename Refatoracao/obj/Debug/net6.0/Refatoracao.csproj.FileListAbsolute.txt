@@ -1,0 +1,15 @@
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\bin\Debug\net6.0\Refatoracao.exe
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\bin\Debug\net6.0\Refatoracao.deps.json
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\bin\Debug\net6.0\Refatoracao.runtimeconfig.json
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\bin\Debug\net6.0\Refatoracao.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\bin\Debug\net6.0\Refatoracao.pdb
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.AssemblyInfo.cs
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\refint\Refatoracao.dll
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.pdb
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\Refatoracao.genruntimeconfig.cache
+C:\Desenvolvimento\Aulas\RefatorandoCodigo\Refatoracao\obj\Debug\net6.0\ref\Refatoracao.dll
