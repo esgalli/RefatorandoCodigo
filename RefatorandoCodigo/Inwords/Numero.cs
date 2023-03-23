@@ -39,7 +39,7 @@ namespace RefatorandoCodigo.Inwords
 
             double posicao = 1;
             GrupoDe3Digitos grupo = null;
-
+                        
             do
             {
                 grupo = new GrupoDe3Digitos((long)(numero % (double)1000), posicao, grupo);

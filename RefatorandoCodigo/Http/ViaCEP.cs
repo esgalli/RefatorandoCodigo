@@ -1,7 +1,5 @@
-﻿using RefatorandoCodigo.Http.Exceptions;
-using Newtonsoft.Json;
-using System.Net.Http;
-using System.Threading.Tasks;
+﻿using Newtonsoft.Json;
+using RefatorandoCodigo.Http.Exceptions;
 
 namespace RefatorandoCodigo.Http
 {
