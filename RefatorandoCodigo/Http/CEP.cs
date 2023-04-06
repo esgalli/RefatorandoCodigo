@@ -1,5 +1,5 @@
 ﻿using RefatorandoCodigo.Http.Exceptions;
-using RefatorandoCodigoValidation;
+using RefatorandoCodigo.Validation;
 using System;
 using System.Text.RegularExpressions;
 
